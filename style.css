@@ -1,0 +1,9 @@
+#list,#done{
+    width: 25%;
+    height: 30%;
+    border: 2px solid black;
+}
+
+h3{
+    text-decoration: underline;
+}
